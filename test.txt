@@ -1,0 +1,2 @@
+hey this is my 1st line of git_practice
+now this is my second line of commit
